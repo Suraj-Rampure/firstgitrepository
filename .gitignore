@@ -1,0 +1,5 @@
+*.log
+
+[Dd]ebug/
+
+/style.css
